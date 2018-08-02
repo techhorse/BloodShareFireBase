@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "529996193707",
+    "firebase_url": "https://fir-tutorials-15788.firebaseio.com",
+    "project_id": "fir-tutorials-15788",
+    "storage_bucket": "fir-tutorials-15788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529996193707:android:449d02da5bbf97a0",
+        "android_client_info": {
+          "package_name": "com.blood.abhishek.firebasetutorials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529996193707-ilfe881d9839k4bo6uqc4fvb7hirs9r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blood.abhishek.firebasetutorials",
+            "certificate_hash": "a517bf336c5b1456e6b6be746ce3733a9e3258cb"
+          }
+        },
+        {
+          "client_id": "529996193707-npqbeu5ibp6hf0bbdasc6ml7ojlkm0hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm70WOBMUbrj4ToacdehNj0Pq2ODr1_nk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529996193707-npqbeu5ibp6hf0bbdasc6ml7ojlkm0hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529996193707:android:60c15cad272e8c25",
+        "android_client_info": {
+          "package_name": "com.example.abhishek.blood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529996193707-1p3vt2lgis57auu6tqo192emnmd4kovv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abhishek.blood",
+            "certificate_hash": "a517bf336c5b1456e6b6be746ce3733a9e3258cb"
+          }
+        },
+        {
+          "client_id": "529996193707-npqbeu5ibp6hf0bbdasc6ml7ojlkm0hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm70WOBMUbrj4ToacdehNj0Pq2ODr1_nk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529996193707-npqbeu5ibp6hf0bbdasc6ml7ojlkm0hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
